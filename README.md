@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**gabrielrevolti/GabrielRevolti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá! Eu sou o Gabriel!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +9,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GabrielR's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrevolti)](https://github.com/gabrielrevolti/github-readme-stats)
