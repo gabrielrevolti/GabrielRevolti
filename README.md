@@ -6,4 +6,4 @@
 - 📖 Estudante de análise e desenvolvimento de sistemas na Impacta
 -->
 
-[![GabrielR's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrevolti)](https://github.com/gabrielrevolti/github-readme-stats&theme=onedark)
+[![GabrielR's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrevolti&theme=onedark)](https://github.com/gabrielrevolti/github-readme-stats)
