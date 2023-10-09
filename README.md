@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel!
-
 ##
+
 - 🔭 Procurando vagas de estágio para web
 - 🌱 Estou estudando JavaScript
 - 😄 Pronouns: ele/dele
