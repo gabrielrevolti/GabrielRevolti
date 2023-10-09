@@ -7,5 +7,5 @@
 
  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrevolti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrevolti&compact_layout&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrevolti&layout=compact&theme=tokyonight"/>
  </div>
