@@ -21,5 +21,4 @@
 
 ##
 
-![snake gif](https://github.com/gabrielrevolti/gabrielrevolti/blob/main/github-contribution-grid-snake.svg)
 
