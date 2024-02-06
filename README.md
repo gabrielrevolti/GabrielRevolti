@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Procurando vagas de estágio para web
-- 💪🏻 Estudando JavaScript
+- 💪🏻 Estudando React.js
 - 😄 Pronouns: ele/dele
 - 📖 Estudante de análise e desenvolvimento de sistemas na Impacta
 
