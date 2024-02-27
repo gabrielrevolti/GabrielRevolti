@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel!
 ##
 
-- 🔭 Procurando vagas de estágio para web
+- 🔭 Procurando vagas de para WebDeveloper
 - 💪🏻 Estudando React.js
 - 😄 Pronouns: ele/dele
 - 📖 Estudante de análise e desenvolvimento de sistemas na Impacta
