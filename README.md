@@ -3,7 +3,6 @@
 
 - 🔭 Procurando vagas de para WebDeveloper
 - 💪🏻 Estudando React.js
-- 😄 Pronouns: ele/dele
 - 📖 Estudante de análise e desenvolvimento de sistemas na Impacta
 
  <div>
